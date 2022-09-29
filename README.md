@@ -6,6 +6,8 @@
 
 ***Reconhecimento de firma***
 
+**Pergunta:**  
+
 Quando cliente solicitar a alteração no texto da etiqueta de reconhecimento, informe que se fizer isso, vai sair do padrão determinado na portaria. Para mais informações, acesse [Portaria](http://www8.tjmg.jus.br/institucional/at/pdf/pt00092012.pdf). Na página 21, é possível visualizar os modelos das etiquetas.
 
 **R.** *III - texto padronizado para ato de RECONHECIMENTO DE FIRMA e AUTENTICAÇÃO, nos seguintes moldes:
@@ -20,6 +22,12 @@ registrado. [Município/Distrito], [dia/mês/ano]., seguido de rubrica do respon
 ***Autenticação***
 
 ![autenticacao](https://github.com/gislenetavaresacsiv/Mundo_glip/blob/main/img/AUTENTICACAO.png)
+
+**Pergunta:**  
+
+Alterar Qtde. folhas para Qtde. de autenticação?
+
+**R.** Essa mudança é devido ao selo eletrônico, que usa essa nomenclatura agora, então seguimos no mesmo entendimento deles, antes era autenticação, mas mudaram.
 
 > Scanner
 
@@ -60,5 +68,15 @@ No provimento 74 orienta a realizar o backup na nuvem e em um HD externo pelo qu
 O backup pode ser configurado para ser feito em várias máquinas, mas o ideal seria no servidor, pois se colocar nas máquinas é possível ter acesso a cópia desse backup.
 Ele é configurado para fazer automático.
 O backup geral é feito de 24 em 24 horas, mas acontece um backup incremental em tempo real, a medida que vai utilizando o sistema, vai salvando o backup no caminho que foi configurado.
+
+> Site
+
+**Pergunta:**  
+
+O que fazer quando aparecer esse erro na atualização dos dados do site?
+
+![site](https://github.com/gislenetavaresacsiv/Mundo_glip/blob/main/img/SITE.png)
+
+**R.** Perdeu a conexão com o servidor web (algo no host), aguardar e tentar realizar a atualização dos dados mais tarde, se não de certo, o ideal seria reiniciar o a conexão do banco do site.
 
 
